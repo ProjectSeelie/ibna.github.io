@@ -1623,7 +1623,7 @@ a {
 .cid-sS3dF1Tofn {
   padding-top: 0px;
   padding-bottom: 0px;
-  background: transparent;
+  background: linear-gradient(0deg, #232323, #232323);
 }
 .cid-sS3dF1Tofn .contenair {
   display: flex;
@@ -1650,7 +1650,7 @@ a {
   padding-right: 24px;
   border-radius: 0px;
   user-select: none;
-  background-color: #353535;
+  background-color: #232323;
   box-sizing: border-box;
   outline: none;
 }
