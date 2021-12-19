@@ -802,6 +802,8 @@ a {
   padding: 0rem 2rem;
   position: relative;
   align-items: center;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
 }
 .cid-0TFKTBCWR4 .navbar-dropdown.bg-color.transparent.opened {
   background: #353535;
@@ -985,8 +987,8 @@ a {
     display: none;
   }
   .cid-0TFKTBCWR4 .navbar-collapse {
-    -webkit-justify-content: flex-start;
-    justify-content: flex-start;
+    -webkit-justify-content: flex-end;
+    justify-content: flex-end;
   }
 }
 .cid-0TFKTBCWR4 .navbar-short .menu-content-top {
