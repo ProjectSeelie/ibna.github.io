@@ -2089,6 +2089,13 @@ div.responsive-picture.picture-member:hover {
     font-size: 32px;
   }
 
+  a.link-text.text-link-3 {
+    color: #fff;
+    text-align: center;
+
+    -webkit-text-stroke-color: #fff;
+  }
+
   a.link-text.text-link-1 {
     color: #fff;
 
@@ -2096,13 +2103,6 @@ div.responsive-picture.picture-member:hover {
   }
 
   a.link-text.text-link-2 {
-    -webkit-text-stroke-color: #fff;
-  }
-
-  a.link-text.text-link-3 {
-    color: #fff;
-    text-align: center;
-
     -webkit-text-stroke-color: #fff;
   }
 
@@ -2120,7 +2120,7 @@ div.responsive-picture.picture-member:hover {
     top: auto;
     -ms-flex-pack: center;
     float: none;
-    overflow: scroll;
+    overflow: auto;
     margin-top: 0;
     margin-bottom: 0;
     padding-right: 0;
@@ -2142,20 +2142,6 @@ div.responsive-picture.picture-member:hover {
     grid-template-rows: repeat(auto-fill, auto);
     grid-template-columns: repeat(9 , auto);
     grid-auto-flow: row;
-  }
-
-  .container-grid.card {
-    position: static;
-    display: block;
-    float: none;
-    width: 300px;
-    height: auto;
-    text-align: center;
-
-    justify-self: center;
-    -webkit-align-self: center;
-    -ms-flex-item-align: center;
-            align-self: center;
   }
 
   .container-grid.card-action {
@@ -2184,6 +2170,20 @@ div.responsive-picture.picture-member:hover {
     -webkit-box-direction: normal;
        -moz-box-orient: vertical;
        -moz-box-direction: normal;
+  }
+
+  .container-grid.card {
+    position: static;
+    display: block;
+    float: none;
+    width: 300px;
+    height: auto;
+    text-align: center;
+
+    justify-self: center;
+    -webkit-align-self: center;
+    -ms-flex-item-align: center;
+            align-self: center;
   }
 }
 
