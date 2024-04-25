@@ -444,7 +444,7 @@ a.glyph.mobile-nav-button i {
 .container-grid.navigation {
   position: -webkit-sticky;
   position:         sticky;
-  z-index: 1;
+  z-index: 0;
   display: block;
   margin-bottom: 0;
   background-color: #000;
@@ -460,7 +460,7 @@ a.glyph.mobile-nav-button i {
 
 .container-grid.nav-wrapper {
   position: relative;
-  z-index: 1;
+  z-index: auto;
   display: -webkit-box;
   display: -webkit-flex;
   display:    -moz-box;
@@ -725,8 +725,8 @@ ul.list-container.tabs.z-depth-1 {
 .html-element.html-element-3 {
   position: relative;
   left: 0;
-  z-index: 2;
-  display: block;
+  z-index: auto;
+  display: inline-block;
   visibility: visible;
   -ms-flex-order: 0;
   float: none;
@@ -754,6 +754,11 @@ ul.list-container.tabs.z-depth-1 {
   -webkit-order: 0;
      -moz-box-ordinal-group: 1;
           order: 0;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+     -moz-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
 }
 
 div.responsive-picture.picture-2 {
@@ -843,6 +848,12 @@ div.image-for-button.image-for-button-link-2 {
 
 .html-element#html-element-1 {
   visibility: hidden;
+}
+
+.container-grid.container-collapsible-wrapper.navigation {
+  z-index: 0;
+  background-color: #101010;
+  opacity: 1;
 }
 
 li.list-item-container.indicator {
