@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<?php include
+"mobicms/plugins/usermanager/securepage.php";?><!DOCTYPE html>
 <html  >
 <head>
   
@@ -10,7 +11,7 @@
   <meta name="description" content="">
   
   
-  <title>Home</title>
+  <title>Dashboard</title>
   <link rel="stylesheet" href="assets/font-awesome-brands/../css/fontawesome.min.css">
   <link rel="stylesheet" href="assets/font-awesome-brands/css/brands.min.css">
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
@@ -24,7 +25,7 @@
   <link href="assets/fonts/style.css" rel="stylesheet">
   <link rel="preload" href="https://fonts.googleapis.com/css?family=Inter+Tight:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter+Tight:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap"></noscript>
-  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css?v=PXT1U8"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css?v=PXT1U8" type="text/css">
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css?v=RWRqc4"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css?v=RWRqc4" type="text/css">
 
   
   
@@ -32,7 +33,7 @@
 </head>
 <body>
   
-  <section data-bs-version="5.1" class="menu menu4 cid-ub68jovSW6" once="menu" id="menu04-1k">
+  <section data-bs-version="5.1" class="menu menu4 cid-ub6gaAIgxy" once="menu" id="menu04-24">
 	
 
 	<nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg">
@@ -70,100 +71,7 @@
 	</nav>
 </section>
 
-<section data-bs-version="5.1" class="header5 cid-tJS6uM4N87" id="header05-1">
-	
-
-	
-	
-	<div class="topbg"></div>
-	<div class="align-center container">
-		<div class="row justify-content-center">
-			<div class="col-md-12 col-lg-9">
-				<h1 class="mbr-section-title mbr-fonts-style mb-4 display-1"><strong>Create amazing websites</strong></h1>
-				<p class="mbr-text mbr-fonts-style mb-4 display-7">Click any text to edit or style it. Select text to insert a link.
-<br>Click the blue icon at the top right corner (Block Parameters) of the block to hide/show buttons, text, title, and change the block background. Click the red "+" button at the bottom right corner to add a new block. Use the top left menu to create new pages, sites, and add new themes and extensions.</p>
-				<div class="mbr-section-btn mt-3"><a class="btn btn-primary display-7" href="index.html#form02-6">Start now</a> <a class="btn btn-primary-outline display-7" href="index.html#gallery02-v">Live demo</a></div>
-			</div>
-		</div>
-		<div class="row mt-5 justify-content-center">
-			<div class="col-12 col-lg-12">
-				<img src="assets/images/11.jpg" alt="Mobirise Website Builder" title="">
-			</div>
-		</div>
-	</div>
-</section>
-
-<section data-bs-version="5.1" class="features4 cid-tMlEXTHLbS" id="features04-w">
-	
-	
-	<div class="container">
-		<div class="row justify-content-center">
-			<div class="col-12 content-head">
-				<div class="mbr-section-head mb-5">
-					<h4 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2"><strong>Our Services</strong></h4>
-					<h5 class="mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-4 display-7">Hover over pictures to add more cards or rearrange them with the Tools panel. Add multiple cards by selecting multiple images. You can set the number of columns in Block Parameters.</h5>
-					
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="item features-image col-12 col-md-6 col-lg-4">
-				<div class="item-wrapper">
-					<div class="item-img">
-						<img src="assets/images/gallery03.jpg" alt="Mobirise Website Builder">
-					</div>
-					<div class="item-content">
-						<h5 class="item-title mbr-fonts-style display-5">
-							<strong>Marketing</strong>
-						</h5>
-						
-						<p class="mbr-text mbr-fonts-style display-7">
-							Service Description. You can show/hide the title, subtitle, text, button in the Block Parameters
-						</p>
-						<div class="mbr-section-btn item-footer"><a href="" class="btn item-btn btn-primary display-7">Learn more</a></div>
-					</div>
-
-				</div>
-			</div>
-			<div class="item features-image col-12 col-md-6 col-lg-4">
-				<div class="item-wrapper">
-					<div class="item-img">
-						<img src="assets/images/gallery05.jpg" alt="Mobirise Website Builder">
-					</div>
-					<div class="item-content">
-						<h5 class="item-title mbr-fonts-style display-5">
-							<strong>Promotion</strong>
-						</h5>
-						
-						<p class="mbr-text mbr-fonts-style display-7">
-							Service Description. You can show/hide the title, subtitle, text, button in the Block Parameters
-						</p>
-						<div class="mbr-section-btn item-footer"><a href="" class="btn item-btn btn-primary display-7">Learn more</a></div>
-					</div>
-				</div>
-			</div>
-			<div class="item features-image col-12 col-md-6 col-lg-4">
-				<div class="item-wrapper">
-					<div class="item-img">
-						<img src="assets/images/gallery02.jpg" alt="Mobirise Website Builder">
-					</div>
-					<div class="item-content">
-						<h5 class="item-title mbr-fonts-style display-5">
-							<strong>Branding</strong>
-						</h5>
-						
-						<p class="mbr-text mbr-fonts-style display-7">
-							Service Description. You can show/hide the title, subtitle, text, button in the Block Parameters<br>
-						</p>
-						<div class="mbr-section-btn item-footer"><a href="" class="btn item-btn btn-primary display-7">Learn more</a></div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-
-<section data-bs-version="5.1" class="footer1 programm5 cid-tJS9NNcTLZ" once="footers" id="footer03-8">
+<section data-bs-version="5.1" class="footer1 programm5 cid-ub6gaCtBhS" once="footers" id="footer03-25">
 
         
 
