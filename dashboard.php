@@ -1,5 +1,4 @@
-<?php include
-"mobicms/plugins/usermanager/securepage.php";?><!DOCTYPE html>
+<?php include"mobicms/plugins/usermanager/securepage.php";?><!DOCTYPE html>
 <html  >
 <head>
   
@@ -25,7 +24,7 @@
   <link href="assets/fonts/style.css" rel="stylesheet">
   <link rel="preload" href="https://fonts.googleapis.com/css?family=Inter+Tight:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter+Tight:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap"></noscript>
-  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css?v=RWRqc4"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css?v=RWRqc4" type="text/css">
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css?v=ZO7NnR"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css?v=ZO7NnR" type="text/css">
 
   
   
