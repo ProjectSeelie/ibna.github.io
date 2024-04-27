@@ -61,7 +61,7 @@
     "imageResize": true,
     "chatbutton": {},
     "favicon": "@PROJECT_PATH@/assets/images/ibnalogo-2.webp",
-    "mbrsiteDomain": "mzcaq5ckpq",
+    "mbrsiteDomain": "jguxggqznp",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
@@ -79,7 +79,7 @@
     "witsec-search": false,
     "witsec-jquery": "3.6.0",
     "witsec-white-label": true,
-    "publishEditFolder": true
+    "publishEditFolder": false
   },
   "pages": {
     "index.html": {
