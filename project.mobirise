@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "IBNA",
-    "currentPage": "login.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -1850,11 +1850,11 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_cid": "ub6gaAIgxy",
+          "_anchor": "menu04-24",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {},
-          "_anchor": "menu04-24"
+          "_params": {}
         },
         {
           "alias": false,
@@ -1936,11 +1936,11 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_cid": "ub6gaCtBhS",
+          "_anchor": "footer03-25",
           "_protectedParams": [],
           "_global": true,
           "_once": "footers",
-          "_params": {},
-          "_anchor": "footer03-25"
+          "_params": {}
         }
       ]
     },
