@@ -24,7 +24,7 @@
   <link href="assets/fonts/style.css" rel="stylesheet">
   <link rel="preload" href="https://fonts.googleapis.com/css?family=Inter+Tight:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter+Tight:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap"></noscript>
-  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css?v=cmNBIQ"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css?v=cmNBIQ" type="text/css">
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css?v=nkYLZX"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css?v=nkYLZX" type="text/css">
 
   
   
@@ -91,45 +91,12 @@
                     <div title="Ore" class="hoursCountdown col-xs-3 col-sm-3 col-md-3 display-4"></div>
                     <div title="Minuti" class="minutesCountdown col-xs-3 col-sm-3 col-md-3 display-4"></div>
                     <div title="Secondi" class="secondsCountdown col-xs-3 col-sm-3 col-md-3 display-4"></div>
-                    <div class="countdown" data-due-date="2024/07/01"></div>
+                    <div class="countdown" data-due-date="2024/06/01"></div>
                 </div>
                 
                 
                 
             </div>
-        </div>
-    </div>
-</section>
-
-<section class="mbr-section article content1 cid-ucbHXdrarQ" id="custom-html-58">
-
-     
-
-    <div class="container">
-        <div class="media-container-row">
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script>
-$(document).ready(function() {
-    var spreadsheetID = "1q3FVrxJ_8dr8CI_4y5sbSPRuUyAvc38YoApUh1OmCD4";
-    var sheetName = "Sheet1";
-    var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
-
-    $.getJSON(url, function(data) {
-        var entry = data.feed.entry;
-        var html = "<table border='1'>";
-        html += "<tr><th>Name</th><th>Age</th><th>City</th></tr>";
-        for (var i = 0; i < entry.length; i++) {
-            html += "<tr>";
-            html += "<td>" + entry[i]['gsx$name']['$t'] + "</td>";
-            html += "<td>" + entry[i]['gsx$age']['$t'] + "</td>";
-            html += "<td>" + entry[i]['gsx$city']['$t'] + "</td>";
-            html += "</tr>";
-        }
-        html += "</table>";
-        $("#table-container").html(html);
-    });
-});
-</script>
         </div>
     </div>
 </section>
