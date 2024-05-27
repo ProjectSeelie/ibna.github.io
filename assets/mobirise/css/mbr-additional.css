@@ -6530,11 +6530,11 @@ a {
 }
 .cid-ubcakdOUvG .mbr-text,
 .cid-ubcakdOUvG .mbr-section-btn {
-  text-align: left;
+  text-align: center;
   color: #ffffff;
 }
 .cid-ubcakdOUvG .item-title {
-  text-align: left;
+  text-align: center;
   color: #ffffff;
 }
 .cid-ubcakdOUvG .item-subtitle {
@@ -8251,90 +8251,6 @@ a {
 .cid-uc6VJ2ZXjA .mbr-section-title {
   color: #ffffff;
 }
-.cid-udCkJ7eF7s {
-  padding-top: 8rem;
-  padding-bottom: 0rem;
-}
-.cid-udCkJ7eF7s .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-udCkJ7eF7s .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  background-image: url("../../../assets/images/background1-1.jpg");
-}
-.cid-udCkJ7eF7s .soc-item {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 50%;
-  background-color: #edefeb;
-  margin-right: 0.25rem;
-  margin-left: 0.25rem;
-  margin-bottom: 1rem;
-  padding: 0.5rem;
-  height: 3.5rem;
-  width: 3.5rem;
-}
-.cid-udCkJ7eF7s .number-wrap {
-  color: #9fe870;
-  text-align: center;
-}
-.cid-udCkJ7eF7s .number {
-  color: #9fe870;
-}
-.cid-udCkJ7eF7s .period {
-  display: block;
-}
-.cid-udCkJ7eF7s .dot {
-  display: none;
-}
-@media (max-width: 767px) {
-  .cid-udCkJ7eF7s .period {
-    font-size: 0.8rem;
-  }
-}
-.cid-udCkJ7eF7s .btn {
-  height: 100%;
-  margin: 0;
-}
-.cid-udCkJ7eF7s .mbr-section-btn {
-  margin-bottom: 1.2rem;
-}
-.cid-udCkJ7eF7s .icons-menu .soc-item {
-  padding-left: 8px;
-  padding-right: 8px;
-}
-.cid-udCkJ7eF7s .icons-menu .soc-item a:hover .mbr-iconfont,
-.cid-udCkJ7eF7s .icons-menu .soc-item a:focus .mbr-iconfont {
-  background-color: #9fe870;
-}
-.cid-udCkJ7eF7s .icons-menu .soc-item a .mbr-iconfont {
-  display: flex;
-  border-radius: 50%;
-  text-align: center;
-  color: #163300;
-  background-color: #edefeb;
-  justify-content: center;
-  align-content: center;
-  transition: all 0.3s;
-}
-.cid-udCkJ7eF7s .icons-menu .soc-item a .mbr-iconfont:before {
-  padding: 1.1rem;
-}
-@media (max-width: 767px) {
-  .cid-udCkJ7eF7s .icons-menu .soc-item a .mbr-iconfont:before {
-    padding: 1.2rem;
-  }
-}
-.cid-udCkJ7eF7s H3 {
-  color: #69ec15;
-}
 .cid-ub68jovSW6 {
   z-index: 1000;
   width: 100%;
@@ -8914,6 +8830,90 @@ a {
   margin-right: 45px;
   margin-bottom: 5px;
   margin-top: 5px;
+}
+.cid-udCkJ7eF7s {
+  padding-top: 8rem;
+  padding-bottom: 0rem;
+}
+.cid-udCkJ7eF7s .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-udCkJ7eF7s .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  background-image: url("../../../assets/images/background1-1.jpg");
+}
+.cid-udCkJ7eF7s .soc-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background-color: #edefeb;
+  margin-right: 0.25rem;
+  margin-left: 0.25rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  height: 3.5rem;
+  width: 3.5rem;
+}
+.cid-udCkJ7eF7s .number-wrap {
+  color: #9fe870;
+  text-align: center;
+}
+.cid-udCkJ7eF7s .number {
+  color: #9fe870;
+}
+.cid-udCkJ7eF7s .period {
+  display: block;
+}
+.cid-udCkJ7eF7s .dot {
+  display: none;
+}
+@media (max-width: 767px) {
+  .cid-udCkJ7eF7s .period {
+    font-size: 0.8rem;
+  }
+}
+.cid-udCkJ7eF7s .btn {
+  height: 100%;
+  margin: 0;
+}
+.cid-udCkJ7eF7s .mbr-section-btn {
+  margin-bottom: 1.2rem;
+}
+.cid-udCkJ7eF7s .icons-menu .soc-item {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.cid-udCkJ7eF7s .icons-menu .soc-item a:hover .mbr-iconfont,
+.cid-udCkJ7eF7s .icons-menu .soc-item a:focus .mbr-iconfont {
+  background-color: #9fe870;
+}
+.cid-udCkJ7eF7s .icons-menu .soc-item a .mbr-iconfont {
+  display: flex;
+  border-radius: 50%;
+  text-align: center;
+  color: #163300;
+  background-color: #edefeb;
+  justify-content: center;
+  align-content: center;
+  transition: all 0.3s;
+}
+.cid-udCkJ7eF7s .icons-menu .soc-item a .mbr-iconfont:before {
+  padding: 1.1rem;
+}
+@media (max-width: 767px) {
+  .cid-udCkJ7eF7s .icons-menu .soc-item a .mbr-iconfont:before {
+    padding: 1.2rem;
+  }
+}
+.cid-udCkJ7eF7s H3 {
+  color: #69ec15;
 }
 .cid-udCovoNA2Q {
   padding-top: 2rem;
